@@ -1,0 +1,18 @@
+
+.body{
+	font-family: sans-serif;
+}
+
+.biografia{
+	background-color: white;
+	width: 70%;
+	display: inline-block;
+	font-size: 14px;
+	line-height: 1.6
+}
+
+.resumen{
+	background-color: white;
+	display: inline-block;
+	vertical-align: top;
+}
